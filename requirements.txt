@@ -1,0 +1,4 @@
+pandas
+imutils
+xlsxwriter
+PyQt5
